@@ -10,7 +10,7 @@ namespace Week2_Var
             Console.WriteLine("Enter your first integer to be computed for: ");
             string num1 = Console.ReadLine();
 
-            Console.WriteLine("Enter your second integer to be computer for: ");
+            Console.WriteLine("Enter your second integer to be computed for: ");
             string num2 = Console.ReadLine();
 
             Console.WriteLine("Your solutions are: ");
